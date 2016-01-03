@@ -1,16 +1,24 @@
-# README #
+#Eazy XMLRPC Pingback Ping Disable
+##Description
+The XMLRPC Pingback Ping can potentially be used as part of a DDOS attack. If you do not need the functionality, this plugin will use core functions to disable it.
 
-### What is this repository for? ###
+##License
+License: GPLv2  
+License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 
-* This is a WordPress plugin to disable the built in XMLRPC pingback ping
-* Version 1.0.0
+##Installation  
+1. Upload plugin to your WordPress Installation
+2. Activate plugin  
 
-### How do I get set up? ###
+##Frequently Asked Questions 
+**What does this plugin do?**  
+This plugin disables the XMLRPC Pingback Ping that is built into WordPress.    
+  
+##WordPress Requirements
+Requires at least: 4.2.4  
+Tested up to: 4.2.4  
 
-* Upload plugin to WordPress
-* Activate plugin
+##Changelog
+= 1.0 =  
+First version
 
-
-### Who do I talk to? ###
-
-* Plugin information and documentation is available at http://robjscott.com/wordpress
