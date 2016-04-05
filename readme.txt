@@ -2,7 +2,7 @@
 Contributors: r0bsc0tt
 Tags: XMLRPC, Pingback, Ping
 Requires at least: 4.2
-Tested up to: 4.2.2
+Tested up to: 4.5
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
