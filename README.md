@@ -16,7 +16,7 @@ This plugin disables the XMLRPC Pingback Ping that is built into WordPress.
   
 ##WordPress Requirements
 Requires at least: 4.2.4  
-Tested up to: 4.2.4  
+Tested up to: 4.5  
 
 ##Changelog
 = 1.0 =  
