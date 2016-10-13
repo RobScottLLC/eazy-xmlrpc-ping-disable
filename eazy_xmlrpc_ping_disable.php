@@ -11,6 +11,7 @@
 add_filter( 'xmlrpc_methods', 'eazy_xmlrpc_ping_disable' );
 function eazy_xmlrpc_ping_disable( $methods ) {
    unset( $methods['pingback.ping'] );
+   unset( $methods['pingback.extensions.getPingbacks'] );
    return $methods;
 } ;
 ?>
